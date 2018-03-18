@@ -1,0 +1,11 @@
+com\maistorat\repo\query\UserDeleteQuery.class
+com\maistorat\model\User.class
+com\maistorat\repo\query\UserCreateQuery.class
+com\maistorat\repo\query\UserReadQuery.class
+com\maistorat\repo\query\UserDeactivateQuery.class
+com\maistorat\repo\UserRepo.class
+com\maistorat\repo\query\UserUpdateQuery.class
+com\maistorat\repo\mapper\UserMapper.class
+com\maistorat\repo\impl\UserRepoImpl.class
+com\maistorat\config\ConfigDomain.class
+com\maistorat\repo\query\UserSearchQuery.class
