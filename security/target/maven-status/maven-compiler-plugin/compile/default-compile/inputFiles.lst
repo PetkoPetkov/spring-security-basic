@@ -1,0 +1,9 @@
+C:\dev\Projects\maistorat\security\src\main\java\com\maistorat\model\UserSecurity.java
+C:\dev\Projects\maistorat\security\src\main\java\com\maistorat\service\UserSecurityService.java
+C:\dev\Projects\maistorat\security\src\main\java\com\maistorat\config\SecurityWebApplicationInitializer.java
+C:\dev\Projects\maistorat\security\src\main\java\com\maistorat\repo\UserSecurityRepository.java
+C:\dev\Projects\maistorat\security\src\main\java\com\maistorat\config\SpringSecurityConfig.java
+C:\dev\Projects\maistorat\security\src\main\java\com\maistorat\repo\impl\UserSecurityRepositoryImpl.java
+C:\dev\Projects\maistorat\security\src\main\java\com\maistorat\model\Permission.java
+C:\dev\Projects\maistorat\security\src\main\java\com\maistorat\model\Role.java
+C:\dev\Projects\maistorat\security\src\main\java\com\maistorat\service\impl\UserSecurityServiceImpl.java

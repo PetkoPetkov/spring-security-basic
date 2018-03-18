@@ -1,0 +1,5 @@
+com\maistorat\BaseFacade.class
+com\maistorat\config\DispatcherConfig.class
+com\maistorat\UserFacade.class
+com\maistorat\config\WebAppInitConfig.class
+com\maistorat\impl\UserFacadeImpl.class

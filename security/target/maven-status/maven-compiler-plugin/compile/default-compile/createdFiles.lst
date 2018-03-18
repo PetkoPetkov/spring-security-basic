@@ -1,0 +1,11 @@
+com\maistorat\model\Role.class
+com\maistorat\model\Permission.class
+com\maistorat\repo\impl\UserSecurityRepositoryImpl$1.class
+com\maistorat\model\UserSecurity.class
+com\maistorat\repo\impl\UserSecurityRepositoryImpl$UserSecurityMapper.class
+com\maistorat\repo\impl\UserSecurityRepositoryImpl.class
+com\maistorat\config\SecurityWebApplicationInitializer.class
+com\maistorat\repo\UserSecurityRepository.class
+com\maistorat\service\UserSecurityService.class
+com\maistorat\config\SpringSecurityConfig.class
+com\maistorat\service\impl\UserSecurityServiceImpl.class
