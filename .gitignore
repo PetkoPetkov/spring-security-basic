@@ -1,2 +1,6 @@
 .idea/*
 *.iml
+/config/target
+/domain/target
+/facade/target
+/security/target
